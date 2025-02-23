@@ -1,0 +1,26 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "leche",
+        "cantidad": 100,
+        "precio": 1.0
+    },
+    {
+        "id_producto": 2,
+        "nombre": "galletas",
+        "cantidad": 50,
+        "precio": 0.3
+    },
+    {
+        "id_producto": 3,
+        "nombre": "agua",
+        "cantidad": 100,
+        "precio": 0.5
+    },
+    {
+        "id_producto": 4,
+        "nombre": "arroz",
+        "cantidad": 30,
+        "precio": 10.0
+    }
+]
