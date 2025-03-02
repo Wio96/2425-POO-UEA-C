@@ -22,5 +22,53 @@
         "nombre": "arroz",
         "cantidad": 30,
         "precio": 10.0
+    },
+    {
+        "id_producto": 1,
+        "nombre": "leche",
+        "cantidad": 40,
+        "precio": 1.0
+    },
+    {
+        "id_producto": 3,
+        "nombre": "arroz",
+        "cantidad": 20,
+        "precio": 10.0
+    },
+    {
+        "id_producto": 4,
+        "nombre": "funda de caramelos",
+        "cantidad": 30,
+        "precio": 1.5
+    },
+    {
+        "id_producto": 5,
+        "nombre": "azucar",
+        "cantidad": 40,
+        "precio": 0.9
+    },
+    {
+        "id_producto": 1,
+        "nombre": "Leche",
+        "cantidad": 40,
+        "precio": 1.2
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Azucar",
+        "cantidad": 50,
+        "precio": 0.8
+    },
+    {
+        "id_producto": 3,
+        "nombre": "Arina",
+        "cantidad": 30,
+        "precio": 0.8
+    },
+    {
+        "id_producto": 4,
+        "nombre": "Funda de caramelos",
+        "cantidad": 20,
+        "precio": 1.5
     }
 ]
